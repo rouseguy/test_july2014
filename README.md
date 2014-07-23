@@ -1,2 +1,1 @@
-test_july2014
-=============
+This is a test repo
